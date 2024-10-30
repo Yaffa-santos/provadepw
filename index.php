@@ -8,5 +8,10 @@
 <body>
     <h1>Anna Clara e Yaffa Grupo</h1>
     <img src="imagens/pizza-de-pepperoni-caseira-portal-minha-receita.jpg" alt="imagens/pizza-de-pepperoni-caseira-portal-minha-receita">
+    <h2>Botão aquiii</h2>
+    <form action="cadastros.php" method="get">
+        <button type="submit">Ir para Cadastros</button>
+    </form>
+
 </body>
 </html>
